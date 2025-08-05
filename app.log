@@ -1,0 +1,9 @@
+2025-08-05 18:33:39,568 - WARNING - Invalid player assigned to Coach 'Mike'. Expected Player instance, got str.
+2025-08-05 18:33:39,568 - DEBUG - Mike called command_player.
+2025-08-05 18:33:39,569 - ERROR - Coach 'Mike' attempted to command an invalid (None) player.
+2025-08-05 18:33:39,569 - INFO - Player created: John, Sport: Football
+2025-08-05 18:33:39,570 - INFO - Coach 'Alex' assigned to Player 'John'.
+2025-08-05 18:33:39,570 - DEBUG - Alex called command_player.
+2025-08-05 18:33:39,570 - INFO - Coach 'Alex' is commanding 'John'.
+2025-08-05 18:33:39,570 - DEBUG - John called start_training.
+2025-08-05 18:33:39,571 - DEBUG - John is executing __run method.
